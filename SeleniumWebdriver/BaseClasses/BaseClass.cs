@@ -4,7 +4,7 @@ using OpenQA.Selenium.Firefox;
 using SeleniumWebdriver.Configuration;
 using SeleniumWebdriver.CustomException;
 using SeleniumWebdriver.Settings;
-
+//Basepage
 namespace SeleniumWebdriver.BaseClasses
 {
     [TestClass]
